@@ -33,6 +33,8 @@ const bricolage = Bricolage_Grotesque({
 export const metadata: Metadata = {
   title: "AnonLink",
   description: "Random video or voice chat with randm people",
+ 
+  
 };
 
 export default function RootLayout({
